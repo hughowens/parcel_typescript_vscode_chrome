@@ -4,6 +4,10 @@ A basic template set up for using parcel to build and chrome + vscode to debug
 The magic is in the launch.json.
 Needs the "Debugger for Chrome" extension installed in vscode.
 
+Start with "parcel index.html".
+
+You'll probably want to remove d3 and mithril, unless of course you want to use them.
+
 
 Copyright (c) 2019, Hugh Owens
 
